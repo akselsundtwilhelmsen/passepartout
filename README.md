@@ -3,6 +3,7 @@
 ## Dependencies
 * [Pillow](https://pypi.org/project/Pillow/)
 * [argparse](https://pypi.org/project/argparse/)
+
 `pip install Pillow argparse`
 
 ## Usage
